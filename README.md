@@ -1,2 +1,18 @@
-# windows-activation-program
-Windows Activation script
+# Windows/Office activation program 
+This is an activation powershell script converted to an executable
+
+To open this program you need to have: 
+Administrative permission,  
+An internet connection (To download necessary source files then put in the Temp folder). 
+
+This is an EXE file that can:
+Activate Windows, 
+Activate Office, 
+Download Windows,
+Download Office, 
+See the activation status of Windows and Office, 
+Troubleshoot your computer, 
+Change Windows Edition, 
+Extract the OEM folder.
+ 
+Copyright to @massgravel 
