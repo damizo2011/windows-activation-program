@@ -1,6 +1,7 @@
 # Windows/Office activation program 
 This is an activation powershell script converted to an executable
-If you want the normal .ps1 file i link in in the releas
+
+If you want the normal .ps1 file i link in in the release
 
 To open this program you need to have: 
 Administrative permission,  
