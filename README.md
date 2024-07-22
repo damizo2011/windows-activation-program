@@ -1,5 +1,5 @@
 # Windows/Office activation program 
-This is an activation powershell script converted to an executable
+This is an activation powershell script converted to an executable, you find the program in the realeases tab
 
 If you want the normal .ps1 file i link in in the release
 
